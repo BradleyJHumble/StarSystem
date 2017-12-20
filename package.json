@@ -1,0 +1,19 @@
+{
+  "name": "starsystem",
+  "version": "1.0.0",
+  "description": "An rest api for stars average processing. ( reviewAmt , totalStars , starAverage) starAverage = totalStars / reviewAmt * 5 (5 star point scale)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BradleyJHumble/StarSystem.git"
+  },
+  "author": "BradleyJHumble",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BradleyJHumble/StarSystem/issues"
+  },
+  "homepage": "https://github.com/BradleyJHumble/StarSystem#readme"
+}

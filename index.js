@@ -64,3 +64,6 @@ response.send("Hello World");
 http.createServer(app).listen(3000, function() {
  	console.log("Server is running");
 });
+
+// Should seperate the function to pull the total stars and amount of stars after inserting or else it wont be accurate with asynchronous programming 
+//  Dot next? Probably/ Will come back to this later.
